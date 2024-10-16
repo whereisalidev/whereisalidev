@@ -5,7 +5,7 @@
   "title": "Software Engineer",
   "interest": "Backend"
   "skills": {
-    "Frontend": ["HTML", "CSS", "Flutter"],
+    "Frontend": ["HTML", "CSS", "JS"],
     "Backend": ["Django", "Flask"]
   },
   "languages": ["Python", "Dart"],
