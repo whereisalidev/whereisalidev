@@ -6,7 +6,7 @@
   "interest": "Backend"
   "skills": {
     "Frontend": ["HTML", "CSS", "Flutter"],
-    "Backend": ["Django"]
+    "Backend": ["Django", "Flask"]
   },
   "languages": ["Python", "Dart"],
   "tools": ["VS code", "Postman"]
