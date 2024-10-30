@@ -3,11 +3,11 @@
 ```json
 {
   "title": "Software Engineer",
-  "interest": "Backend"
+  "interest": ["Backend", "Cloud"],
   "skills": {
     "Frontend": ["HTML", "CSS", "JS"],
     "Backend": ["Django", "FastAPI"]
   },
-  "languages": ["Python", "Dart"],
+  "languages": ["Python", "JS"],
   "tools": ["VS code", "Postman"]
 }
