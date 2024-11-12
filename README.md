@@ -6,7 +6,7 @@
   "interest": ["Backend", "Cloud"],
   "skills": {
     "Frontend": ["HTML", "CSS", "JS"],
-    "Backend": ["Django", "FastAPI"]
+    "Backend": ["Django", "Flask"]
   },
   "languages": ["Python", "JS"],
   "tools": ["VS code", "Postman"]
