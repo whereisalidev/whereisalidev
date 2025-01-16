@@ -9,5 +9,5 @@
     "Backend": ["Django", "Flask"]
   },
   "languages": ["Python", "JS"],
-  "tools": ["VS code", "Postman"]
+  "tools": ["VS code", "Postman", "Google Colab"]
 }
