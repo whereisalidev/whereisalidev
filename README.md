@@ -3,7 +3,7 @@
 ```json
 {
   "title": "Software Engineer",
-  "interest": ["GenAI", "AgenticAI", "Backend", "Cloud"],
+  "interest": ["Gen AI", "AI Agents", "System Design", "Cloud"],
   "skills": {
     "Frontend": ["React/Next JS"],
     "Backend": ["Django/DRF", "FastAPI"],
