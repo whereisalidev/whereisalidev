@@ -2,7 +2,7 @@
 
 ```json
 {
-  "title": "Software Engineer",
+  "title": "Software Engineer ~ Full Stack",
   "interest": ["Gen AI", "AI Agents", "System Design", "Cloud"],
   "skills": {
     "Frontend": ["React/Next JS"],
