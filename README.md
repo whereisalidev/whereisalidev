@@ -6,7 +6,7 @@
   "interest": ["Gen AI", "AI Agents", "System Design", "Cloud"],
   "skills": {
     "Frontend": ["React/Next JS"],
-    "Backend": ["Django/DRF", "Flask", "FastAPI"],
+    "Backend": ["FastAPI", "Django/DRF", "Flask"],
     "Deployment": ["AWS", "Hostinger", "Railway", "Render", "Vercel"]
   },
 }
