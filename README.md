@@ -3,6 +3,8 @@
 ```json
 {
   "title": "Software Engineer ~ Full Stack",
+  "experience": "2+ Years",
+  "production_apps": "10+",
   "interest": ["AI", "System Design", "Cloud", "Startups"],
   "skills": {
     "Frontend": ["React.js", "Next.js", "Flutter"],
