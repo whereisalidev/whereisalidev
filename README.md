@@ -7,11 +7,11 @@
   "production_apps": "10+",
   "interest": ["AI", "System Design", "Cloud", "Startups"],
   "skills": {
-    "Frontend": ["React.js", "Next.js", "Flutter"],
-    "Backend": ["FastAPI", "Django/DRF", "Express JS"],
-    "AI/GenAI": ["LLMs", "RAG", "MCP", "Agents", "ML/DL"],
-    "DevOps": ["Docker", "Linux", "Nginx", "CI/CD", "VPS/VMs"],
-    "Cloud/Hosting": ["AWS", "Hostinger", "GCP", "Railway", "Render"]
+    "frontend": ["React.js", "Next.js", "Flutter"],
+    "backend": ["FastAPI", "Django/DRF", "Express JS"],
+    "ai_genai": ["LLMs", "RAG", "MCP", "Agents", "ML/DL"],
+    "devops": ["Docker", "Linux", "Nginx", "CI/CD", "VPS/VMs"],
+    "cloud_hosting": ["AWS", "Hostinger", "GCP", "Railway", "Render"]
   }
 }
 ```
