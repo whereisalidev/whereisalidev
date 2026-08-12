@@ -8,7 +8,7 @@
   "interest": ["AI", "System Design", "Cloud", "Startups"],
   "skills": {
     "frontend": ["React.js", "Next.js", "Flutter"],
-    "backend": ["FastAPI", "Node.js", "Express.js"],
+    "backend": ["Node.js", "Express.js", "FastAPI"],
     "applied_ai": ["LLMs", "RAG", "MCP", "Agents"],
     "devops": ["Docker", "Linux", "Nginx", "CI/CD", "VPS/VMs"],
     "cloud_hosting": ["AWS", "Hostinger", "GCP", "Railway", "Render"]
